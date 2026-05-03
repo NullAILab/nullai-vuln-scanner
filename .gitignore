@@ -1,0 +1,12 @@
+# Go binaries
+vuln-scanner
+vuln-scanner.exe
+*.test
+
+# Go build cache
+/vendor/
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
